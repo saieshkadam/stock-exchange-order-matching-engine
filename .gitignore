@@ -8,12 +8,12 @@ target/
 # Java compiled files
 *.class
 
-# OS files
-.DS_Store
-Thumbs.db
-
 # Logs
 *.log
 
 # Environment / secrets
 .env
+
+# OS files
+.DS_Store
+Thumbs.db
